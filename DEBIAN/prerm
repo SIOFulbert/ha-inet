@@ -1,0 +1,3 @@
+# Desactivation du service
+systemctl stop ha-inet
+systemctl disable ha-inet

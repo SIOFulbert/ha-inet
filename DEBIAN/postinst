@@ -1,0 +1,4 @@
+# Mise en place du service
+systemctl daemon-reload
+systemctl enable ha-inet
+systemctl start ha-inet

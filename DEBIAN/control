@@ -1,0 +1,6 @@
+Package: ha-inet
+Version: 1.0
+Maintainer: Kevin HUET <kevin.huet@lyceefulbert.fr>
+Architecture: all
+Depends: pve-ha-manager
+Description: Outil de surveillance d'interface reseau pour proxmox
