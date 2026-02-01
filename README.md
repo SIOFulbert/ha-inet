@@ -18,7 +18,7 @@ Réalisez un clone du dépôt :
 
 Renommez le dossier **ha-inet** en **ha-inet_1.1-1_all** et utilisez la commande dpkg-deb pour créer le .deb :
 
-`dpkg-deb --build ha-inet_1.0-1_all`
+`dpkg-deb --build ha-inet_1.1-1_all`
 
 ## Installation
 Installez le paquet normalement avec dpkg :
