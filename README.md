@@ -16,14 +16,14 @@ Réalisez un clone du dépôt :
 
 `git clone https://github.com/SIOFulbert/ha-inet.git`
 
-Renommez le dossier **ha-inet** en **ha-inet_1.0-1_all** et utilisez la commande dpkg-deb pour créer le .deb :
+Renommez le dossier **ha-inet** en **ha-inet_1.1-1_all** et utilisez la commande dpkg-deb pour créer le .deb :
 
 `dpkg-deb --build ha-inet_1.0-1_all`
 
 ## Installation
 Installez le paquet normalement avec dpkg :
 
-`dpkg -i ha-inet_1.0-1_all.deb`
+`dpkg -i ha-inet_1.1-1_all.deb`
 
 Le package est généré dans le répertoire courant.
 
